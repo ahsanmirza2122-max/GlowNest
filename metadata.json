@@ -1,0 +1,6 @@
+{
+  "name": "GlowNest",
+  "description": "A modern luxury minimalist AliExpress affiliate lifestyle website featuring curated beauty, home decor, organization, wellness, and kitchen finds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
